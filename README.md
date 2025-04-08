@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mitchel Sellers
 
-I'm a software architect, business owner, pilot and avid .NET User.  Here you will find a lot of my examples used in conference events, hobby projects, and similar.  Be sure to check out my company repositories [IowaComputerGurus](https://www.github.com/iowacomputergurus) for numerous helpful utilities for .NET development including .NET MAUI.
+I'm a software architect, business owner, Microsoft MVP, pilot, and avid .NET advocate.  Here you will find a lot of my examples used in conference events, hobby projects, and similar.  Be sure to check out my company repositories [IowaComputerGurus](https://www.github.com/iowacomputergurus) for numerous helpful utilities for .NET development including .NET MAUI.
 
 - 🔭 I’m currently working on .NET, .NET MAUI Blazor, and more
 - 💬 Ask me about flying!
